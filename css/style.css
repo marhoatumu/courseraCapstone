@@ -1,5 +1,4 @@
-  
-  .bi {
+.bi {
     vertical-align: -.125em;
     fill: #000000;
     padding: 2px;
@@ -9,3 +8,14 @@
     color: #000000;
   }
   
+#heroic {
+  background-image: linear-gradient(to bottom, rgba(104, 104, 104, 0.5), rgba(0,0,255,0.5)), url("../img/geometric-pattern.jpg");
+}
+
+#headlinetext {
+  color: #d4d4d4;
+}
+
+#subheadlinetext {
+  color: #ffffff;
+}
